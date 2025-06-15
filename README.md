@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Sina Houshmand**!
 
-![Full Stack Developer](https://i.ibb.co/k6W8960N/20250615-1055-simple-compose-01jxs7jvcsfwnsag3v9yv5qswh-copy.jpg)
+![Full Stack Developer](https://i.ibb.co/dJj7NGLN/20250615-1055-simple-compose-01jxs7jvcsfwnsag3v9yv5qswh-copy.jpg)
 
 ## 🚀 About Me
 I am a **Full Stack Developer** with **4 years of professional experience** in web development. I specialize in **Laravel**, **Vue.js**, **Livewire**, **MySQL**, **PostgreSQL**, and **GitHub**. My journey in web development has been focused on creating **complex, scalable, and efficient web applications**.
