@@ -93,7 +93,7 @@ Working on:
 ## 🧩 My Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,js,ts,mysql,redis,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,js,ts,mysql,redis,docker,git" />
 </p>
 
 
