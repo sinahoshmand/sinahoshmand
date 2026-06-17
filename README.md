@@ -1,57 +1,117 @@
-# 👋 Hi there, I'm **Sina Houshmand**!
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
-![Full Stack Developer](https://raw.githubusercontent.com/sinahoshmand/sinahoshmand/refs/heads/main/20250615_1055_%D8%B7%D8%B1%D8%A7%D8%AD%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D9%81%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%DA%A9_simple_compose_01jxs7jvcsfwnsag3v9yv5qswh%20copy.jpg)
+<h1 align="center">Hi 👋 I'm Sina Hoshmand</h1>
 
-## 🚀 About Me
-I am a **Full Stack Developer** with **4 years of professional experience** in web development. I specialize in **Laravel**, **react**, **Livewire**, **MySQL**, **PostgreSQL**, and **GitHub**. My journey in web development has been focused on creating **complex, scalable, and efficient web applications**.
-
-I have worked on a range of projects, from **academic websites** to **accounting systems** and **e-commerce platforms**. My skills include **REST API development**, **modern front-end design**, **database optimization**, and **version control** using **GitHub**. I am also well-versed in **Docker** for containerization.
-
----
-
-## 🛠️ My Skills
-
-### 🌐 **Back-End:**
-- **Laravel**
-- **Livewire**
-- **MySQL**
-- **PostgreSQL**
-
-### 💻 **Front-End:**
-- **react**
-- **next.js**
-- **inertia.js**
-- **HTML/CSS/JavaScript**
-
-### 💡 **Other Technologies:**
-- **REST APIs**
-- **GitHub (Version Control)**
----
-
-## 📈 Projects & Experience
-Over the years, I have built numerous web applications, including:
-- **University websites** with complex content management.
-- **E-commerce platforms** with user authentication and payment integration.
-- **Accounting systems** with financial tracking and reporting.
-- **RESTful APIs** for scalable applications.
-
-I strive to create high-quality, maintainable code and collaborate effectively with teams.
+<p align="center">
+  Full Stack Web Developer | Laravel • React • Next.js
+</p>
 
 ---
 
-## 🌍 Get in Touch
-- 💻 [Personal Website (Farsi)](https://sinahoushmand.ir)
-- 🌐 [Personal Website (English)](https://sinahoushmand.ir/en)
+## 🇬🇧 About Me
 
-Feel free to explore my projects, ask questions, or get in touch for collaboration opportunities!
+I'm a passionate **Full Stack Web Developer** with **4+ years of professional experience** in designing and developing modern, scalable web applications.
+
+I love building complete products from backend architecture to modern frontend experiences.
+
+My main focus is creating clean, maintainable, and high-performance applications using modern technologies.
+
+💻 Backend:
+- Laravel
+- PHP
+- REST API
+- Database Design
+- Authentication & Authorization
+- Server-side Architecture
+
+🎨 Frontend:
+- React.js
+- Next.js
+- JavaScript / TypeScript
+- Modern UI Development
+- Responsive Design
+
+⚙️ Tools & Technologies:
+- Git & GitHub
+- Docker
+- MySQL
+- Redis
+- Linux
+- Deployment & Server Management
+
 
 ---
 
-## 📧 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/sinahoshmand)
+## 🇮🇷 درباره من
+
+من سینا هستم، یک **توسعه‌دهنده فول‌استک وب** با بیش از **۴ سال سابقه فعالیت حرفه‌ای** در طراحی و توسعه وب‌سایت‌ها و اپلیکیشن‌های مدرن.
+
+علاقه‌مند به ساخت محصولاتی هستم که فقط ظاهر زیبا نداشته باشند، بلکه از نظر معماری، سرعت، امنیت و قابلیت توسعه هم استاندارد باشند.
+
+تجربه من شامل توسعه کامل پروژه‌ها از طراحی دیتابیس و بک‌اند تا ساخت رابط کاربری مدرن و پیاده‌سازی سمت کلاینت است.
+
+مهارت‌های اصلی من:
+
+🚀 بک‌اند:
+- Laravel
+- PHP
+- طراحی API
+- معماری نرم‌افزار
+- مدیریت کاربران و سیستم‌های احراز هویت
+
+⚡ فرانت‌اند:
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- طراحی رابط کاربری مدرن
+
+🛠 ابزارها:
+- Git
+- Docker
+- MySQL
+- Redis
+- Linux
+
 
 ---
 
-**Thanks for visiting my profile!** 🚀
+## 💼 Experience
 
--->
+**4+ Years Professional Experience**
+
+Working on:
+- E-commerce platforms
+- Management dashboards
+- Custom web applications
+- Business websites
+- Full-stack solutions
+
+
+---
+
+## 🧩 My Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,js,ts,mysql,redis,docker,git,linux" />
+</p>
+
+
+---
+
+## 📫 Contact
+
+🌐 Website:
+https://www.sinahoshmand.ir
+
+💻 GitHub:
+https://github.com/yourusername
+
+
+---
+
+<p align="center">
+  ⭐ Building modern web experiences with clean code & great architecture
+</p>
