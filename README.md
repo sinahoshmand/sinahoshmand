@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/sinahoshmand/sinahoshmand/refs/heads/main/ChatGPT%20Image%20Jun%2017%2C%202026%2C%2011_15_00%20AM.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Sina Hoshmand</h1>
