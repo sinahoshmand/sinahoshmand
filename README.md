@@ -38,7 +38,6 @@ My main focus is creating clean, maintainable, and high-performance applications
 - Docker
 - MySQL
 - Redis
-- Linux
 - Deployment & Server Management
 
 
@@ -73,7 +72,6 @@ My main focus is creating clean, maintainable, and high-performance applications
 - Docker
 - MySQL
 - Redis
-- Linux
 
 
 ---
