@@ -66,12 +66,12 @@ I enjoy writing clean, maintainable code and creating software that is fast, sca
 
  # 💼 Featured Projects
 
-| Project | Description | Technologies | Demo |
+| Project | Description | Technologies | Link |
 |----------|-------------|--------------|------|
 | 🌍 **AskUni** | A smart platform for searching and discovering international universities with advanced filtering based on field of study and academic level. | Laravel • Livewire • MySQL | 🔗 https://www.askuni.ir/ |
 | 🎓 **Urmia University of Technology** | Official multilingual university website with a comprehensive content management system for academic and administrative services. | Laravel • Livewire • MySQL | 🔗 https://uut.ac.ir/ |
 | 🧴 **SkincareYab** | A specialized platform for discovering skincare professionals through advanced search and filtering features. | Laravel • Inertia.js • React • MySQL | 🔗 https://skincare.resumebuilder.ir/ |
-| 🏫 **Educational Management System** | A complete educational, administrative, and accounting system featuring student management, finance, reports, and administrative tools. | Laravel • Livewire • MySQL | 🔗 https://system.resumebuilder.ir/<br>**Demo:** `09301744451` / `12345` |
+| 🏫 **Educational Management System** | A complete educational, administrative, and accounting system featuring student management, finance, reports, and administrative tools. | Laravel • Livewire • MySQL | 🔗 https://system.resumebuilder.ir/<br>**Demo:** `user : 09301744451` / `password : 12345` |
 
 ---
 
